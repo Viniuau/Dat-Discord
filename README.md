@@ -1,6 +1,5 @@
 <h1>Dat Discord</h1>
-<h5>A theme green/blue based</h5>
-<strike>theme still in beta</strike>
+<h5>A theme green/blue based, <strike>theme still in beta</strike></h5>
 <img src="http://i.imgur.com/LFnZKQs.png"/>
 <img src="http://i.imgur.com/34o2j6R.png"/>
 ```
