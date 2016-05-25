@@ -162,3 +162,36 @@ button.win-minimize:hover {
 .pubs-footer {
     background: transparent !important
 }
+.settings-wrapper {
+    background: -webkit-linear-gradient(left, #006699 0%,#099999 100%);
+}
+.settings-actions {
+    background: -webkit-linear-gradient(left, #006699 0%,#099999 100%);
+}
+.tab-bar {
+    background: -webkit-linear-gradient(left, #006699 0%,#099999 100%);
+}
+.tab-bar-item {
+    font-family: Futura md BT
+}
+.tab-bar-item:hover {
+    font-family: Helvetica
+}
+.user-settings-modal-games {
+    background: -webkit-linear-gradient(left, #006699 0%,#099999 100%);
+}
+.game {
+    font-family: Futura md BT
+}
+.game-input {
+    font-family: Futura md BT
+}
+.Select-control {
+    background: transparent
+}
+.Select-placeholder {
+    background: transparent
+}
+.Select-input {
+    background: transparent
+}
