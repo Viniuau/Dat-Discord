@@ -1,4 +1,4 @@
-<h1>Dat Discord 0.6</h1>
+<h1>Dat Discord 0.6.1</h1>
 <h5>A theme green/blue based, <strike>theme still in beta</strike></h5>
 <h3><b>NOTE: Download Futura md BT before installing the theme!</b></h3>
 <h2>Screenshots</h2>
