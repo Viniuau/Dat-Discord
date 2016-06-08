@@ -46,10 +46,6 @@ button.win-minimize:hover {
     background: transparent !important;
 	font-family: Futura md BT;
 }
-.callout-backdrop {
-    background:url(https://i.imgur.com/OGOCJcX.jpg) !important;
-    background-size:cover !important;
-}
 .avatar-large {
     min-height: 70px;
     min-width: 70px;
@@ -104,6 +100,12 @@ button.win-minimize:hover {
     -moz-transition: 0.2s all ease;
     transition: 0.2s all ease;
     background-size: cover !important;
+    background-position: center; !important
+    opacity:0.7;
+}
+.bda-backdrop {
+	 background:url(https://i.imgur.com/OGOCJcX.jpg) !important;
+         background-size:cover !important;
 }
 .account .btn-deafen, .account .btn-mute, .account .btn-settings {
     background: transparent; !important
