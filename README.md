@@ -6,7 +6,7 @@
 <img src="http://i.imgur.com/34o2j6R.png"/>
 <h2>Instalattion</h2>
 
-`To install: Click on "Download ZIP" button<br/>
+To install: Click on "Download ZIP" button<br/>
 Extract the .theme.css archive<br/>
 Go to \AppData\Roaming\BetterDiscord\themes (Windows only)<br/>
 Paste<br/>
@@ -14,4 +14,3 @@ Reload Discord by pressing Ctrl + R<br/>
 Go to the Configs, down to BetterDiscord and click "Themes"<br/>
 Enable it<br/>
 Enjoy<br/>
-`
